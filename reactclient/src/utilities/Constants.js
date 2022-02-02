@@ -1,5 +1,5 @@
 const API_BASE_URL_DEVELOPMENT = 'https://localhost:7282';
-const API_BASE_URL_PRODUCTION = 'https://appname.azurewebsites.net';
+const API_BASE_URL_PRODUCTION = 'https://aspnetcorereacttutorial-aspnetserver-emretoraman.azurewebsites.net';
 
 const ENDPOINTS = {
     GET_ALL_POSTS: 'get-all-posts',
